@@ -41,7 +41,6 @@ const sketchProc = (processingInstance) => {
 		};
 
 		var draw = function () {
-			console.log(fruitPosition);
 			//drawing everything
 			background(71, 71, 71);
 			fill(71, 71, 71);
